@@ -1,0 +1,6 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+*.tfvars.local
+_active_emulator_override.tf.bak
